@@ -3,8 +3,10 @@
 Passionate about technology, with experience in development and data science. Strong curiosity, analytical mindset, and eagerness to learn and contribute to challenging projects. Skilled in Python, SQL, data analysis, and project management.
 
 📈 Learning:
-- Machine learning
-- Spiking neural networks
+- Machine learning:
+  - Spiking neural networks
+  - RAG (Retrieval-Augmented Generation)
+- Improving Data Analysis with Power BI and Python
 
 💡 Next steps:
 - Finish the AI Language Tutor project
